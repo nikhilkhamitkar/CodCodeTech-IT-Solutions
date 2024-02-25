@@ -1,2 +1,2 @@
 # CodSoft
-Code Tech IT Solutions internship tasks
+CodSoft internship tasks
